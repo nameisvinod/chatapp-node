@@ -1,3 +1,3 @@
 # chatapp-node
 
-chat aplication created using node
+chat application created using node
